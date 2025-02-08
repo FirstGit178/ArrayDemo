@@ -13,6 +13,10 @@ public class ArrayDemo {
         myNumbers[7] = 800;
         myNumbers[8] = 900;
         myNumbers[9] = 1000;
-        myNumbers[10] = 1100;
+
+        for(int i = 0; i < myNumbers.length; i++)
+        {
+            System.out.println(myNumbers[i]);
+        }
     }
 }
