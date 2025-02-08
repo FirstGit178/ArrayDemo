@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02efc5c-42fd-4a47-9fcd-3fd4b04a6a42" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/arrays/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/arrays/ArrayDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
   "keyToString": {
     "Application.ArrayDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "for-each",
+    "git-widget-placeholder": "Array-List",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -124,16 +123,5 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="ArrayIndexOutOfBoundsException: Create breakpoint : Index 10 out of bounds for length 10" />
     <option name="LAST_COMMIT_MESSAGE" value="ArrayIndexOutOfBoundsException: Create breakpoint : Index 10 out of bounds for length 10" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ie/atu/arrays/ArrayDemo.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
